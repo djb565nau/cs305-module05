@@ -16,3 +16,6 @@ If the bug is not known about, [create a pull request](https://github.com/djb565
 
 # Congrats!
 After submitting your pull request, all you have to do now is wait for our team to review your request and consider adding the changes made! :)
+***
+#### Contributors
+Connor Aiton - caiton1 - Creating win conditions for lights out game
