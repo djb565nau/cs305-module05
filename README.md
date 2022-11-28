@@ -7,7 +7,7 @@
 ***
 # cs305 module
 
-mini-ELF checker project that will open a binary file and check its validity
+Mini-ELF checker project that will open a binary file and check its validity
 ***
 # License
 
@@ -16,5 +16,5 @@ mini-ELF checker project that will open a binary file and check its validity
  # Contributors
  
  The people contributing to this repository will be my group members:
- 1. Issac Olmedo
+ 1. Isaac Olmedo
  2. Connor Aiton
