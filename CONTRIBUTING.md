@@ -19,3 +19,4 @@ After submitting your pull request, all you have to do now is wait for our team 
 ***
 #### Contributors
 Connor Aiton - caiton1 - Creating win conditions for lights out game
+Isaac Olmedo - iolmedo20 - Mini-ELF checker project that will open a binary file and check its validity
